@@ -1,38 +1,38 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,50:1a1a2e,100:16213e&height=280&section=header&text=İbrahim%20Biner&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&fontColor=00D9FF&descColor=8892b0" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,50:1a1a2e,100:16213e&height=280&section=header&text=İbrahim%20Biner&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&fontColor=00D9FF&descColor=8892b0" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+LLMs;RAG+Architecture+%26+Agentic+AI+Developer;Autonomous+Systems+%26+Computer+Vision;FastAPI+%7C+LangChain+%7C+PyTorch+%7C+Azure" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+LLMs;RAG+Architecture+%26+Agentic+AI+Developer;Autonomous+Systems+%26+Computer+Vision;FastAPI+%7C+LangChain+%7C+PyTorch+%7C+Azure" alt="Typing SVG" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:ibrahimbiner30@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/ibrahimbiner" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/ibrahim-biner" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="mailto:ibrahimbiner30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ibrahimbiner" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ibrahim-biner" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=ibrahim-biner&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahim-biner&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-&lt;br/&gt;
+<br/>
 
 ## 🧠 About Me
 
-&lt;p align="center"&gt;
-  &lt;img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
 
-&lt;p align="center"&gt;
-  🤖 &lt;b&gt;AI & ML Enthusiast&lt;/b&gt; — LLMs, RAG, Agentic AI, NLP, Computer Vision&lt;br/&gt;
-  🎓 &lt;b&gt;Senior Software Engineering&lt;/b&gt; @ Kocaeli University (GPA: 3.35/4.00)&lt;br/&gt;
-  💼 &lt;b&gt;AI Engineer Intern&lt;/b&gt; @ Inosens (Feb 2026 – Aug 2026)&lt;br/&gt;
-  🐍 &lt;b&gt;Python&lt;/b&gt; is my weapon of choice&lt;br/&gt;
-  🚀 Building &lt;b&gt;autonomous AI systems&lt;/b&gt; & &lt;b&gt;intelligent chatbots&lt;/b&gt;&lt;br/&gt;
-  🌐 Based in &lt;b&gt;Kocaeli, Turkey&lt;/b&gt;&lt;br/&gt;
-  📫 &lt;b&gt;ibrahimbiner30@gmail.com&lt;/b&gt;
-&lt;/p&gt;
+<p align="center">
+  🤖 <b>AI & ML Enthusiast</b> — LLMs, RAG, Agentic AI, NLP, Computer Vision<br/>
+  🎓 <b>Software Engineering Graduate</b> @ Kocaeli University (GPA: 3.41/4.00)<br/>
+  💼 <b>AI Engineer Volunteer</b> (Feb 2026 – Present)<br/>
+  🐍 <b>Python</b> is my weapon of choice<br/>
+  🚀 Building <b>autonomous AI systems</b> & <b>intelligent chatbots</b><br/>
+  🌐 Based in <b>Kocaeli, Turkey</b><br/>
+  📫 <b>ibrahimbiner30@gmail.com</b>
+</p>
 
 ---
 
@@ -81,30 +81,30 @@
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=ibrahim-biner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-biner&layout=compact&theme=tokyonight&hide_border=true" height="180" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-biner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-biner&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-biner&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=00D9FF&currStreakLabel=00D9FF" height="180" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-biner&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=00D9FF&currStreakLabel=00D9FF" height="180" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=ibrahim-biner&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-biner&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-biner&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-biner&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+</p>
 
 ---
 
@@ -112,19 +112,19 @@
 
 | Role | Company | Period | Details |
 |------|---------|--------|---------|
-| 🤖 AI Engineer Intern | **Inosens** | Feb 2026 – Aug 2026 | Chatbot & Long Context LLM systems, RAG architectures, AI Agents R&D |
+| 🤖 AI Engineer Volunteer | **Firm** | Feb 2026 – Present | Chatbot & Long Context LLM systems, RAG architectures, AI Agents R&D |
 | 💻 Software Dev Intern | **Aksoy Çözüm Yazılım** | — | eBA workflow apps with C# & MySQL |
-| 🚗 Graduation Project | **Kocaeli University** | Jul 2024 – Sep 2024 | ROS2 autonomous vehicle, YOLO traffic recognition, SLAM & navigation |
+| 🚗 Graduation Project | **Kocaeli University** | — | ROS 2 autonomous vehicle, YOLO traffic recognition, SLAM & navigation |
 
 ---
 
 ## 🎓 Education
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Kocaeli%20University-Software%20Engineering-003366?style=for-the-badge" /&gt;
-  &lt;img src="https://img.shields.io/badge/GPA-3.35%2F4.00-00D9FF?style=for-the-badge" /&gt;
-  &lt;img src="https://img.shields.io/badge/2022--2026-Bachelor's%20Degree-8892b0?style=for-the-badge" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://img.shields.io/badge/Kocaeli%20University-Software%20Engineering-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPA-3.41%2F4.00-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bachelor's%20Degree-Software%20Engineering-8892b0?style=for-the-badge" />
+</p>
 
 ---
 
@@ -134,24 +134,24 @@
 |---------|-------------|------------|
 | **⭐ ReviewAI** | SaaS platform for review analysis & autonomous responses. NLP sentiment + Gemini AI replies. | `FastAPI` `React` `NLP` `Gemini API` `PostgreSQL` |
 | **📊 AI Muhasebe** | Microservice-based receipt/invoice automation. Gemini Vision OCR + WhatsApp bot. | `FastAPI` `React` `Gemini Vision` `Twilio` `Docker` |
-| **🤖 Multi-Site QA Chatbot** | Serverless Q&A bot for multiple sites. Azure Functions + Crawl4AI + OpenAI Long-Context. | `Azure Functions` `Crawl4AI` `OpenAI API` |
-| **📝 ABSA on Reviews** | BERT-based aspect extraction & sentiment analysis on Trendyol reviews. | `BERT` `PyTorch` `Hugging Face` `Crawl4AI` |
+| **🤖 EVBAH QA Chatbot** | Serverless Q&A bot for multiple sites. Azure Functions + Crawl4AI + OpenAI Long-Context. | `Azure Functions` `Crawl4AI` `OpenAI API` |
+| **📝 ABSA on Reviews** | BERT-based aspect extraction & sentiment analysis on e-commerce reviews. | `BERT` `PyTorch` `Hugging Face` `Crawl4AI` |
 
 ---
 
 ## 📜 Certifications
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/KOSGEB-Advanced%20Entrepreneurship-FF6B00?style=for-the-badge" /&gt;
-  &lt;img src="https://img.shields.io/badge/English-B2%20Upper--Intermediate-00D9FF?style=for-the-badge" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://img.shields.io/badge/KOSGEB-Advanced%20Entrepreneurship-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-B2%20Upper--Intermediate-00D9FF?style=for-the-badge" />
+</p>
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;i&gt;⭐ From &lt;a href="https://github.com/ibrahim-biner"&gt;ibrahim-biner&lt;/a&gt; with ❤️ and lots of ☕&lt;/i&gt;
-&lt;/p&gt;
+<p align="center">
+  <i>⭐ From <a href="https://github.com/ibrahim-biner">ibrahim-biner</a> with ❤️ and lots of ☕</i>
+</p>
