@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,50:1a1a2e,100:16213e&height=280&section=header&text=İbrahim%20Biner&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&fontColor=00D9FF&descColor=8892b0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,50:1a1a2e,100:16213e&height=280&section=header&text=İbrahim%20Biner&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=58&descSize=18&fontColor=00D9FF&descColor=8892b0" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+LLMs;RAG+Architecture+%26+Agentic+AI+Developer;Autonomous+Systems+%26+Computer+Vision;FastAPI+%7C+LangChain+%7C+PyTorch+%7C+Azure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Production+RAG+%26+Agentic+AI+Systems;LLM+Architectures+%26+Human-in-the-loop+Workflows;Autonomous+Systems+%26+Computer+Vision;FastAPI+%7C+LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+%7C+AWS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  🤖 <b>AI & ML Enthusiast</b> — LLMs, RAG, Agentic AI, NLP, Computer Vision<br/>
-  🎓 <b>Software Engineering Graduate</b> @ Kocaeli University (GPA: 3.41/4.00)<br/>
-  💼 <b>AI Engineer Volunteer</b> (Feb 2026 – Present)<br/>
+  🤖 <b>AI/ML Engineer</b> — Specializing in LLM, RAG, Agentic AI, NLP & Computer Vision<br/>
+  🎓 <b>Software Engineering Graduate (B.Sc.)</b> @ Kocaeli University (GPA: <b>3.41/4.00</b>)<br/>
+  💼 Experienced in building production-ready serverless RAG pipelines & Agentic workflows<br/>
   🐍 <b>Python</b> is my weapon of choice<br/>
-  🚀 Building <b>autonomous AI systems</b> & <b>intelligent chatbots</b><br/>
+  🚀 Building <b>autonomous AI systems</b>, <b>tool-calling agents</b> & <b>intelligent chatbots</b><br/>
   🌐 Based in <b>Kocaeli, Turkey</b><br/>
   📫 <b>ibrahimbiner30@gmail.com</b>
 </p>
@@ -40,18 +40,23 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🤖 AI / ML / DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🤖 LLM & Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-00D9FF?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6F61?style=for-the-badge&logo=qdrant&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Protocol-8A2BE2?style=for-the-badge)
+
+### 🔬 ML / DL & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### ⚙️ Backend & Frameworks
@@ -59,35 +64,29 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6F61?style=for-the-badge&logo=qdrant&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### ☁️ Cloud & Serverless DevOps
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🔌 APIs & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-biner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-biner&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibrahim-biner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibrahim-biner&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-biner&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=00D9FF&currStreakLabel=00D9FF" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-biner&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -95,7 +94,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-biner&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-biner&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
@@ -103,27 +102,28 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-biner&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <img src="https://ghchart.rshah.org/00D9FF/ibrahim-biner" alt="ibrahim-biner's Github Graph" />
 </p>
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-| Role | Company | Period | Details |
-|------|---------|--------|---------|
-| 🤖 AI Engineer Volunteer | **Firm** | Feb 2026 – Present | Chatbot & Long Context LLM systems, RAG architectures, AI Agents R&D |
-| 💻 Software Dev Intern | **Aksoy Çözüm Yazılım** | — | eBA workflow apps with C# & MySQL |
-| 🚗 Graduation Project | **Kocaeli University** | — | ROS 2 autonomous vehicle, YOLO traffic recognition, SLAM & navigation |
+| Role | Company | Period | Key Focus & Achievements |
+|------|---------|--------|--------------------------|
+| 🤖 **AI Engineer Intern** | **VeriSimple** | 06/2026 – 08/2026 | Built AWS Lambda agentic support automation (LangGraph, tool-calling) with Human-in-the-Loop. Developed Azure Function multi-site Crawl4AI RAG chatbot live at *becureglobal.com*. |
+| 🤖 **AI Engineer Intern** | **İnosens** | 02/2026 – 06/2026 | Built email-RAG chatbot (Qdrant + LangChain) & serverless Azure long-context chatbot for mobile healthcare app. |
+| 💻 **Software Dev Intern** | **Aksoy Çözüm Yazılım** | 08/2024 – 09/2024 | Enterprise eBA workflow application development using C# and MySQL. |
+| 🚗 **Graduation Project** | **Kocaeli University** | 07/2024 – 09/2024 | Fully autonomous vehicle simulation in ROS 2 Gazebo with YOLO sign recognition, SLAM & Nav2 navigation. |
 
 ---
 
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kocaeli%20University-Software%20Engineering-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kocaeli%20University-Software%20Engineering%20(B.Sc.)-003366?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GPA-3.41%2F4.00-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bachelor's%20Degree-Software%20Engineering-8892b0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Degree-Bachelor's%20Graduate-8892b0?style=for-the-badge" />
 </p>
 
 ---
@@ -132,17 +132,18 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **⭐ ReviewAI** | SaaS platform for review analysis & autonomous responses. NLP sentiment + Gemini AI replies. | `FastAPI` `React` `NLP` `Gemini API` `PostgreSQL` |
-| **📊 AI Muhasebe** | Microservice-based receipt/invoice automation. Gemini Vision OCR + WhatsApp bot. | `FastAPI` `React` `Gemini Vision` `Twilio` `Docker` |
-| **🤖 EVBAH QA Chatbot** | Serverless Q&A bot for multiple sites. Azure Functions + Crawl4AI + OpenAI Long-Context. | `Azure Functions` `Crawl4AI` `OpenAI API` |
-| **📝 ABSA on Reviews** | BERT-based aspect extraction & sentiment analysis on e-commerce reviews. | `BERT` `PyTorch` `Hugging Face` `Crawl4AI` |
+| **⭐ ReviewAI** | SaaS platform automating review analysis & autonomous responses via Google Business Profile API + Gemini AI. | `FastAPI` `React` `NLP` `Gemini API` `PostgreSQL` |
+| **📊 AI Accounting** | Microservice platform extracting receipt/invoice financial data using Gemini Vision OCR & WhatsApp bot. | `FastAPI` `React` `Gemini Vision` `Twilio` `Docker` `PostgreSQL` |
+| **🤖 Multi-Site Autonomous QA Chatbot** | Serverless Q&A system crawling sites with Crawl4AI to Markdown + Azure Blob & OpenAI long-context API. | `Python` `Azure Functions` `Crawl4AI` `OpenAI API` `Azure Blob` |
+| **📝 Aspect-Based Sentiment Analysis (ABSA)** | BERT-based aspect-level sentiment extraction on Trendyol e-commerce product reviews. | `PyTorch` `BERT` `Hugging Face` `Crawl4AI` `Scikit-Learn` |
+| **🫁 COVID-19 X-Ray Classification** | Multi-class deep learning system comparing VGG19, ResNet50 & Xception via Transfer Learning. | `TensorFlow` `Keras` `Transfer Learning` `FastAPI` |
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/KOSGEB-Advanced%20Entrepreneurship-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KOSGEB-Advanced%20Entrepreneurship%20(2024)-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/English-B2%20Upper--Intermediate-00D9FF?style=for-the-badge" />
 </p>
 
@@ -153,5 +154,5 @@
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/ibrahim-biner">ibrahim-biner</a> with ❤️ and lots of ☕</i>
+  <i>⭐ Designed by <a href="https://github.com/ibrahim-biner">ibrahim-biner</a></i>
 </p>
